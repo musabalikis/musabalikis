@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**musabalikis/musabalikis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Musa Balikis Omowunmi
+📊 Data Analyst | 📈 Data Visualization Enthusiast | 🧠 Insight Seeker 
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a data analyst who transforms raw data into meaningful stories using code and creativity. My passion lies in making complex data easy to understand through clean, compelling visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tools & Technologies I Use
+Languages: Python, SQL, R
+
+Data Analysis: Pandas, NumPy, Excel, Power BI
+
+Visualization: Matplotlib, Seaborn, Plotly, Tableau
+
+Other: Jupyter Notebook, Git/GitHub, VS Code
+
+📁 Featured Projects
+📍 [Project Name] – Interactive dashboard analyzing [topic] using [tool].
+
+📊 [Project Name] – Visual report on [topic], using Python and Plotly for dynamic storytelling.
+
+🗂️ [Project Name] – A deep dive into [dataset], including EDA and statistical insights.
+
+I believe data tells the most when it’s shown well.
+
+📫 Let’s Connect
+📧 [Your Email]
+
+💼 [LinkedIn Profile]
+
+🌐 [Portfolio Website, if any]
