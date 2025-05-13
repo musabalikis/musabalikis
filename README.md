@@ -1,10 +1,10 @@
 
-## 👋 Hi, I'm Musa Balikis Omowunmi
+# 👋 Hi, I'm Musa Balikis Omowunmi
 📊 Data Analyst | 📈 Data Visualization Enthusiast | 🧠 Insight Seeker 
 
 Welcome to my GitHub! I’m a data analyst who transforms raw data into meaningful stories using code and creativity. My passion lies in making complex data easy to understand through clean, compelling visualizations.
 
-🔧 Tools & Technologies I Use
+🔧 **Tools & Technologies I Use**
 Languages: Python, SQL, R
 
 Data Analysis: Pandas, NumPy, Excel, Power BI
