@@ -16,15 +16,15 @@ Other: Jupyter Notebook, Git/GitHub, VS Code
 📁 Featured Projects
 📍  Tech studio student performance – Interactive dashboard analyzing and Visualizing using Power BI.
 
-📊 [Project Name] – Visual report on [topic], using Python and Plotly for dynamic storytelling.
+📊 German cars dataset – Visual report, using Python and Plotly for dynamic analysis.
 
-🗂️ [Project Name] – A deep dive into [dataset], including EDA and statistical insights.
+🗂️ Finance dataset – A deep dive into dataset, including EDA and statistical insights.
 
 I believe data tells the most when it’s shown well.
 
 📫 Let’s Connect
-📧 [Your Email]
+📧 wunmiomo066@gmail.com
 
-💼 [LinkedIn Profile]
+💼 www.linkedin.com/in/balikis-musa-618299347
 
 🌐 [Portfolio Website, if any]
