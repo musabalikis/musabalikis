@@ -14,7 +14,7 @@ Visualization: Matplotlib, Seaborn, Plotly, Tableau
 Other: Jupyter Notebook, Git/GitHub, VS Code
 
 📁 Featured Projects
-📍 [Project Name] – Interactive dashboard analyzing [topic] using [tool].
+📍  Tech studio student performance – Interactive dashboard analyzing and Visualizing using Power BI.
 
 📊 [Project Name] – Visual report on [topic], using Python and Plotly for dynamic storytelling.
 
